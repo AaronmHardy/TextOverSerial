@@ -1,0 +1,10 @@
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\bin\Debug\TextOverSerial.exe.config
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\bin\Debug\TextOverSerial.exe
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\bin\Debug\TextOverSerial.pdb
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.csprojAssemblyReference.cache
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.Form1.resources
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.Properties.Resources.resources
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.csproj.GenerateResource.cache
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.csproj.CoreCompileInputs.cache
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.exe
+C:\Users\AaronH\source\repos\TextOverSerial\TextOverSerial\obj\Debug\TextOverSerial.pdb
